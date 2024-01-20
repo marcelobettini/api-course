@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Marcelo Bettini",
   "description": "FreeCodeCamp API certification",
+  "keywords": [
+    "api",
+    "elearning",
+    "freecodecamp",
+    "node"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
